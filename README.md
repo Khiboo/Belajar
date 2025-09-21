@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Nama: Adittya Wiryawan
+Npm: 07352311058
+Kelas: 5IF2
